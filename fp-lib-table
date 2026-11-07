@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "RSX_Jetson") (type "KiCad") (uri "${KIPRJMOD}/RSX_Jetson.pretty") (options "") (descr "RSX Jetson converter footprints")))
